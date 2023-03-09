@@ -1,0 +1,12 @@
+body{
+    background-color: rgba(75, 151, 250, 0.445);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: rgb(80, 100, 143);
+}
+
+
+.logo{height: 40px; width: 50px;}
+.css{height: 350px; width: 400px;}
+.work{ height: 350px; width: 450px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: rgb(80, 100, 143);}
+.center{text-align: center;}
+
