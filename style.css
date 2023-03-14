@@ -10,8 +10,9 @@ body{
     width: 50px;}
     
 .work{
-
-    width: 70%; 
+height:1000px;
+width: 600px;
+    
       font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
       text-align:center;
       margin: auto;
