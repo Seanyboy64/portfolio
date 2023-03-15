@@ -12,12 +12,15 @@ body{
 .work{
 height:1000px;
 width: 600px;
-    
+
       font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
       text-align:center;
       margin: auto;
       color: rgb(80, 100, 143);}
+      
 
       
 .center{
     text-align: center;}
+.font{font-family: "Times New Roman", Times, serif;}
+.font2{ font-family: Geneva, Verdana, sans-serif;}
